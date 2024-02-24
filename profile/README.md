@@ -2,7 +2,7 @@
 # [Get a Free Smart Contract Audit Quote!](https://sourcehat.com)
 
 <!--Introduction -->
-**[SourceHat (formerly Solidity Finance)](https://sourcehat.com/)**  is trusted as a top smart contract auditing company for the review of solidity code, no matter how complex. The firm was founded in 2020 and quickly grew to have one of the most experienced and well-equipped teams in the smart contract auditing field, now protecting over $50 billion in on-chain value across 1700+ projects and thousands of smart contracts.
+**[SourceHat](https://sourcehat.com/)**  is trusted as a top smart contract auditing company for the review of solidity code, no matter how complex. The firm was founded in 2020 and quickly grew to have one of the most experienced and well-equipped teams in the smart contract auditing field, now protecting over $50 billion in on-chain value across 1700+ projects and thousands of smart contracts.
 
 Contact us today to get a free quote for an audit of your project's smart contracts! 
 
@@ -63,7 +63,7 @@ We are approved auditors on  [Unicrypt Network](https://app.unicrypt.network/), 
 We do not require KYC. We can offer [DeFi KYC services](https://sourcehat.com/kyc), however, through our acquisition of [KYC Capital](https://kyc.capital/). All KYC reports will be hosted at [https://sourcehat.com/kyc](https://sourcehat.com/kyc)
 
 <!--Why -->
-## Why Choose SourceHat (formerly Solidity Finance)?
+## Why Choose SourceHat?
 Our team has conducted 1700+ solidity smart contract audits covering all major project types and protocols, securing a total of over $50 billion U.S. dollars in on-chain value. SourceHat is well-reputed in the community and is trusted as a top smart contract auditing company for the review of solidity code, no matter how complex.
 
 -   **Free Smart Contract Audit Quote**
