@@ -8,8 +8,6 @@ We study AI models, inference systems, and software security. We publish models,
 
 Model research and evaluation, bounded decisions, and inference engineering under real memory, latency, and hardware constraints.
 
-- [SourceHat RLCD](https://huggingface.co/SourceHat-Labs/RLCD-Qwen3.5-9B-Gated-Decision) is a research release for bounded decisions using a frozen Qwen3.5-9B backbone and learned scoring heads. Given caller-supplied choices, it can propose a complete object, return alternatives, or abstain. The release includes the learned heads, inference implementation, aggregate evaluation, and documented limitations; base model weights are separate.
-
 ## Security
 
 Research across software, operating systems, embedded devices, vehicle systems, and smart contracts.
